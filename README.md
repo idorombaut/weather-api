@@ -60,9 +60,9 @@ REDIS_URL=redis://localhost:6379/0
 
 ## Usage
 1. Run the Flask app:
-```
-python app.py
-```
+   ```
+   python app.py
+   ```
 
 2. The app will run on `http://127.0.0.1:5000/` by default.
 
